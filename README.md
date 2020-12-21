@@ -2,13 +2,12 @@
 
 Run via the following commands.
 
-````bash
+```bash
 npx msw init public/
 yarn start
 ```
 
 ## History
 
-The code in this repository is based on the
-[MSW Getting Started](https://mswjs.io/docs/getting-started/install).
-````
+The code in this repository is based on
+[MSW Getting Started](https://mswjs.io/docs/getting-started/install)
